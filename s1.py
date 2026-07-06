@@ -1,2 +1,2 @@
-name=giddavva
+name="giddavva"
 print(name)
