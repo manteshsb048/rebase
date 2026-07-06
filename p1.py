@@ -1,0 +1,2 @@
+name=pavakka
+print(name)
