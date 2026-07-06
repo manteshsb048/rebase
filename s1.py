@@ -1,0 +1,2 @@
+name=giddavva
+print(name)
