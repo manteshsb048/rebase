@@ -1,2 +1,2 @@
-name=pavakka
+name="pavakka"
 print(name)
